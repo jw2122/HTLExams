@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "371527470114",
+    "firebase_url": "https://htlexams-jl-default-rtdb.firebaseio.com",
+    "project_id": "htlexams-jl",
+    "storage_bucket": "htlexams-jl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371527470114:android:319158398728b8029e8e7b",
+        "android_client_info": {
+          "package_name": "com.htl.exams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371527470114-3mbd3e3rmlko4u7u91h2uv5747dt6h8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW1_3Y_SvBqtnQu8lK7_9G_nn1UqI2KWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371527470114-3mbd3e3rmlko4u7u91h2uv5747dt6h8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371527470114:android:f130eb564c0b7dc89e8e7b",
+        "android_client_info": {
+          "package_name": "htl_exams.github.io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371527470114-3mbd3e3rmlko4u7u91h2uv5747dt6h8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW1_3Y_SvBqtnQu8lK7_9G_nn1UqI2KWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371527470114-3mbd3e3rmlko4u7u91h2uv5747dt6h8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371527470114:android:03915f3c8797ad029e8e7b",
+        "android_client_info": {
+          "package_name": "htlexams.github.io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371527470114-3mbd3e3rmlko4u7u91h2uv5747dt6h8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW1_3Y_SvBqtnQu8lK7_9G_nn1UqI2KWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371527470114-3mbd3e3rmlko4u7u91h2uv5747dt6h8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371527470114:android:49e7c41557d825cd9e8e7b",
+        "android_client_info": {
+          "package_name": "io.github.htlexams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371527470114-3mbd3e3rmlko4u7u91h2uv5747dt6h8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW1_3Y_SvBqtnQu8lK7_9G_nn1UqI2KWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371527470114-3mbd3e3rmlko4u7u91h2uv5747dt6h8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

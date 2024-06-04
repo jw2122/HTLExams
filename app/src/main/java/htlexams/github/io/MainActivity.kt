@@ -20,12 +20,11 @@ class MainActivity : AppCompatActivity() {
         storageRef.listAll()
             .addOnSuccessListener { result ->
                 for (prefix in result.prefixes) {
-                    // All the prefixes under listRef.
-                    // You may call listAll() recursively on them.
+                    println("  prefix: $prefix")
                 }
 
                 for (item in result.items) {
-                    // All the items under listRef.
+                    println("  item: $item")
                 }
             }
             .addOnFailureListener {
