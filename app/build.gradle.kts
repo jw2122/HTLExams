@@ -53,5 +53,7 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
     implementation(platform("com.google.firebase:firebase-bom:32.8.0"))
     implementation("com.google.firebase:firebase-storage")
+    implementation("com.firebaseui:firebase-ui-storage:7.2.0")
+
 
 }
