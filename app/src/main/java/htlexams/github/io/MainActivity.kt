@@ -66,11 +66,11 @@ class MainActivity : AppCompatActivity() {
                         val item = imageItems[(i + (row - 1) * imagesPerRow).toInt()]
                         val imageItem = layoutInflater.inflate(R.layout.image_item, null)
                         val imageView = imageItem.findViewById<ImageView>(R.id.imageView)
-                        rowView.addView(imageItem)
 
                         item.getBytes(maxDownloadSize).addOnSuccessListener { bytes ->
                             val bitmap = BitmapFactory.decodeByteArray(bytes, 0, bytes.size)
                             imageView.setImageBitmap(bitmap)
+                            rowView.addView(imageItem)
                         }
                     }
                 }
